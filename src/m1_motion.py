@@ -22,7 +22,7 @@ def main():
 
 def go_two_seconds():
     # -------------------------------------------------------------------------
-    # TODO: 3.
+    # DONE: 3.
     #   Make the robot move, by using this pattern:
     #    - Turn on (start) the wheel motors.
     #    - time.sleep(2)  # Pause here, let other processes run for 2 seconds

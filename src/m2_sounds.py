@@ -9,7 +9,7 @@ import simple_rosebotics as rb
 
 
 # ------------------------------------------------------------------------------
-# TODO: 2.  This is an   ** OPTIONAL **   exercise.
+# DONE: 2.  This is an   ** OPTIONAL **   exercise.
 #   Using the DOT trick, add code to  make_sounds  to make the robot
 #   make sounds in various ways:  Beep, Tone, Speech, Song.
 # ------------------------------------------------------------------------------
